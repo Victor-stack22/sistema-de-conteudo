@@ -3,5 +3,5 @@
 > Status do projeto: Em desenvolvimento
 
 ```
-testando formato markdown
+node app.js
 ```
