@@ -6,3 +6,6 @@ console.log("Corrigindo o app js")
 
 //fazendo alterações
 console.log("treinando branch e commits")
+
+//fazendo mais alterações
+console.log("treinando mais um pouco")
